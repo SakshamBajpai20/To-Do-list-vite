@@ -11,7 +11,17 @@
 
 1️⃣ **Clone the repository:**
 ```bash
-git clone https://github.com/SakshamBajpai20/To-Do-list-vite.git
+git clone  https://github.com/SakshamBajpai20/To-Do-list-vite.git
+```
+
+2️⃣ **Install dependencies:**
+
+npm install
+```
+
+3️⃣ **Run the development server:**
+
+npm run dev
 ```
 
 
